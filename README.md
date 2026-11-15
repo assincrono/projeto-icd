@@ -1,0 +1,3 @@
+- Controle do câncer de mama no Brasil: dados e números 2025 (PDF, INCA): https://claude.ai/chat/244df66a-d1c9-4892-a062-a4310d63d2a0#:~:text=Controle%20do%20c%C3%A2ncer%20de%20mama%20no%20Brasil%3A%20dados%20e%20n%C3%BAmeros%202025%20(PDF%2C%20INCA)
+- Edição 2024 do mesmo relatório (PDF): https://ninho.inca.gov.br/jspui/bitstream/123456789/17002/1/Controle%20do%20c%C3%A2ncer%20de%20mamano%20Brasil%20-%20dados%20e%20n%C3%BAmeros%202024.pdf
+- 
