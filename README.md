@@ -6,8 +6,12 @@
 - [**Estimativa de incidência de câncer no Brasil**](https://www.gov.br/inca/pt-br/assuntos/cancer/numeros/estimativa) — taxas por UF e capital
 
 ### Sistemas de informação (DATASUS / TabNet)
+- [**TabNet**](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/) — painel central de tabulação (exportação em CSV)
 - [**Painel-Oncologia**](http://tabnet.datasus.gov.br/cgi/dhdat.exe?PAINEL_ONCO/PAINEL_ONCOLOGIABR.def) — tempo entre diagnóstico e início do tratamento (Lei dos 60 dias)
 - [**Siscan – Colo do útero e mama**](https://datasus.saude.gov.br/acesso-a-informacao/sistema-de-informacao-do-cancer-siscan-colo-do-utero-e-mama/) — mamografias de rastreamento e diagnósticas
+
+### Dados abertos
+- [**Portal de Dados Abertos do SUS (OpenDataSUS)**](https://dadosabertos.saude.gov.br/) — microdados anonimizados em CSV
 
 ### Ferramentas de extração
 - [**datazoom.saude**](https://github.com/datazoompuc/datazoom.saude) — pacote R (Painel-Oncologia e outras bases do DATASUS)
