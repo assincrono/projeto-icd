@@ -25,7 +25,7 @@ Abreviações: "p.p." = pontos percentuais; "SM" = salário mínimo; "IC 95%" = 
 
 ## 1. `base_uf.csv`
 
-Uma linha por Unidade da Federação (27 linhas, 22 colunas), sem valores ausentes. As linhas estão ordenadas
+Uma linha por Unidade da Federação (27 linhas, 21 colunas), sem valores ausentes. As linhas estão ordenadas
 por região (Norte, Nordeste, Sudeste, Sul, Centro-Oeste) e, dentro de cada região, por sigla.
 
 | Nome | Descrição | Tipo | Unidade | Período | Fonte |
@@ -51,7 +51,6 @@ por região (Norte, Nordeste, Sudeste, Sul, Centro-Oeste) e, dentro de cada regi
 | `mamografos_por_100mil_mulheres` | **Derivado.** `mamografos_em_uso_2024 / pop_feminina_estimada × 100.000` (com a população não arredondada), 2 casas decimais. O denominador inclui todas as idades | decimal | equipamentos por 100 mil mulheres | dez/2024 ÷ 2023–2025 | derivado |
 | `var_cobertura_2013_2019` | **Derivado.** `cobertura_pns_2019 − cobertura_pns_2013`, 1 casa decimal. Positivo = aumento | decimal | p.p. | 2013→2019 | derivado |
 | `razao_mortalidade_incidencia` | **Derivado.** `mort_taxa_ajustada_2023 / incid_taxa_ajustada`, 3 casas decimais. Indicador grosseiro de letalidade relativa, com períodos diferentes no numerador e no denominador | decimal | adimensional | 2023 ÷ 2023–2025 | derivado |
-| `destaque_alagoas` | `True` apenas para Alagoas (AL); usado para destacar a UF em gráficos e tabelas | booleano | — | — | derivado de `uf_sigla` |
 
 ---
 

@@ -134,7 +134,7 @@ Todas passaram na execução completa do notebook.
 * Leitura célula a célula com `openpyxl`, com correção das datas (seção 2) e descarte de colunas sem cabeçalho.
 * Conversão de tipos: contagens, `ano` e `cod_ibge` para inteiro; taxas, percentuais e IC para decimal.
 
-### 5.2 `base_uf.csv` (27 × 22, formato largo)
+### 5.2 `base_uf.csv` (27 × 21, formato largo)
 
 1. **Filtro:** apenas linhas com `nivel == "uf"` de cada aba.
 2. **Base de identificação:** `uf_sigla`, `uf_nome`, `cod_ibge` e `regiao` da aba de incidência, mais
@@ -161,7 +161,6 @@ Todas passaram na execução completa do notebook.
 | `mamografos_por_100mil_mulheres` | `mamografos_em_uso_2024 / pop_feminina_estimada × 100.000` | 2 casas (calculado com a população não arredondada) |
 | `var_cobertura_2013_2019` | `cobertura_pns_2019 − cobertura_pns_2013` (p.p.) | 1 casa |
 | `razao_mortalidade_incidencia` | `mort_taxa_ajustada_2023 / incid_taxa_ajustada` | 3 casas |
-| `destaque_alagoas` | `uf_sigla == "AL"` | — |
 
    `pop_feminina_estimada` é aproximada: corresponde à população feminina de **todas as idades** usada pelo
    INCA na estimativa, não à população-alvo do rastreamento (50–69 anos).
@@ -201,11 +200,11 @@ tabelas (são tabelas de UF). Essas linhas foram usadas apenas nas conferências
 
 | Arquivo | Linhas × colunas |
 |---|---|
-| `dados/tratados/base_uf.csv` | 27 × 22 |
+| `dados/tratados/base_uf.csv` | 27 × 21 |
 | `dados/tratados/subgrupos_pns_2019.csv` | 551 × 10 |
 | `dados/tratados/exames_sus_2020_2024.csv` | 135 × 6 |
 
-* Formato: CSV UTF-8, separador vírgula, ponto decimal, sem índice e com booleanos como `True`/`False`.
+* Formato: CSV UTF-8, separador vírgula, ponto decimal e sem índice.
 * Caminhos relativos à pasta `notebooks/`, sem caminhos absolutos.
 * Dependências em `requirements.txt`. O notebook de preparação usa apenas `pandas` e `openpyxl`; os demais
   pacotes são para as análises e mapas.
