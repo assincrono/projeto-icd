@@ -1,0 +1,136 @@
+uf_sigla,uf_nome,regiao,grupo_comparacao,ano,n_mamografias_rastreamento_50_69
+AC,Acre,Norte,Norte/Nordeste,2020,1690
+AC,Acre,Norte,Norte/Nordeste,2021,1641
+AC,Acre,Norte,Norte/Nordeste,2022,5000
+AC,Acre,Norte,Norte/Nordeste,2023,6225
+AC,Acre,Norte,Norte/Nordeste,2024,7649
+AM,Amazonas,Norte,Norte/Nordeste,2020,10155
+AM,Amazonas,Norte,Norte/Nordeste,2021,13689
+AM,Amazonas,Norte,Norte/Nordeste,2022,13433
+AM,Amazonas,Norte,Norte/Nordeste,2023,19550
+AM,Amazonas,Norte,Norte/Nordeste,2024,20943
+AP,Amapá,Norte,Norte/Nordeste,2020,2512
+AP,Amapá,Norte,Norte/Nordeste,2021,4713
+AP,Amapá,Norte,Norte/Nordeste,2022,5475
+AP,Amapá,Norte,Norte/Nordeste,2023,5735
+AP,Amapá,Norte,Norte/Nordeste,2024,3613
+PA,Pará,Norte,Norte/Nordeste,2020,28012
+PA,Pará,Norte,Norte/Nordeste,2021,29744
+PA,Pará,Norte,Norte/Nordeste,2022,37293
+PA,Pará,Norte,Norte/Nordeste,2023,37819
+PA,Pará,Norte,Norte/Nordeste,2024,37334
+RO,Rondônia,Norte,Norte/Nordeste,2020,4286
+RO,Rondônia,Norte,Norte/Nordeste,2021,6262
+RO,Rondônia,Norte,Norte/Nordeste,2022,11007
+RO,Rondônia,Norte,Norte/Nordeste,2023,7678
+RO,Rondônia,Norte,Norte/Nordeste,2024,9274
+RR,Roraima,Norte,Norte/Nordeste,2020,1374
+RR,Roraima,Norte,Norte/Nordeste,2021,4419
+RR,Roraima,Norte,Norte/Nordeste,2022,6199
+RR,Roraima,Norte,Norte/Nordeste,2023,6043
+RR,Roraima,Norte,Norte/Nordeste,2024,6147
+TO,Tocantins,Norte,Norte/Nordeste,2020,3092
+TO,Tocantins,Norte,Norte/Nordeste,2021,4902
+TO,Tocantins,Norte,Norte/Nordeste,2022,4505
+TO,Tocantins,Norte,Norte/Nordeste,2023,4161
+TO,Tocantins,Norte,Norte/Nordeste,2024,4392
+AL,Alagoas,Nordeste,Norte/Nordeste,2020,32192
+AL,Alagoas,Nordeste,Norte/Nordeste,2021,44868
+AL,Alagoas,Nordeste,Norte/Nordeste,2022,46892
+AL,Alagoas,Nordeste,Norte/Nordeste,2023,36280
+AL,Alagoas,Nordeste,Norte/Nordeste,2024,38876
+BA,Bahia,Nordeste,Norte/Nordeste,2020,106029
+BA,Bahia,Nordeste,Norte/Nordeste,2021,178297
+BA,Bahia,Nordeste,Norte/Nordeste,2022,189898
+BA,Bahia,Nordeste,Norte/Nordeste,2023,218271
+BA,Bahia,Nordeste,Norte/Nordeste,2024,248253
+CE,Ceará,Nordeste,Norte/Nordeste,2020,31676
+CE,Ceará,Nordeste,Norte/Nordeste,2021,44303
+CE,Ceará,Nordeste,Norte/Nordeste,2022,65615
+CE,Ceará,Nordeste,Norte/Nordeste,2023,77301
+CE,Ceará,Nordeste,Norte/Nordeste,2024,77843
+MA,Maranhão,Nordeste,Norte/Nordeste,2020,17954
+MA,Maranhão,Nordeste,Norte/Nordeste,2021,32907
+MA,Maranhão,Nordeste,Norte/Nordeste,2022,45896
+MA,Maranhão,Nordeste,Norte/Nordeste,2023,37066
+MA,Maranhão,Nordeste,Norte/Nordeste,2024,34594
+PB,Paraíba,Nordeste,Norte/Nordeste,2020,22261
+PB,Paraíba,Nordeste,Norte/Nordeste,2021,32516
+PB,Paraíba,Nordeste,Norte/Nordeste,2022,35534
+PB,Paraíba,Nordeste,Norte/Nordeste,2023,37319
+PB,Paraíba,Nordeste,Norte/Nordeste,2024,39623
+PE,Pernambuco,Nordeste,Norte/Nordeste,2020,61929
+PE,Pernambuco,Nordeste,Norte/Nordeste,2021,100417
+PE,Pernambuco,Nordeste,Norte/Nordeste,2022,106377
+PE,Pernambuco,Nordeste,Norte/Nordeste,2023,110314
+PE,Pernambuco,Nordeste,Norte/Nordeste,2024,107169
+PI,Piauí,Nordeste,Norte/Nordeste,2020,15948
+PI,Piauí,Nordeste,Norte/Nordeste,2021,28982
+PI,Piauí,Nordeste,Norte/Nordeste,2022,32056
+PI,Piauí,Nordeste,Norte/Nordeste,2023,55509
+PI,Piauí,Nordeste,Norte/Nordeste,2024,51882
+RN,Rio Grande do Norte,Nordeste,Norte/Nordeste,2020,21922
+RN,Rio Grande do Norte,Nordeste,Norte/Nordeste,2021,31086
+RN,Rio Grande do Norte,Nordeste,Norte/Nordeste,2022,36055
+RN,Rio Grande do Norte,Nordeste,Norte/Nordeste,2023,42939
+RN,Rio Grande do Norte,Nordeste,Norte/Nordeste,2024,43852
+SE,Sergipe,Nordeste,Norte/Nordeste,2020,13365
+SE,Sergipe,Nordeste,Norte/Nordeste,2021,25304
+SE,Sergipe,Nordeste,Norte/Nordeste,2022,28086
+SE,Sergipe,Nordeste,Norte/Nordeste,2023,29796
+SE,Sergipe,Nordeste,Norte/Nordeste,2024,30986
+ES,Espírito Santo,Sudeste,Sul/Sudeste,2020,31548
+ES,Espírito Santo,Sudeste,Sul/Sudeste,2021,41750
+ES,Espírito Santo,Sudeste,Sul/Sudeste,2022,50556
+ES,Espírito Santo,Sudeste,Sul/Sudeste,2023,56643
+ES,Espírito Santo,Sudeste,Sul/Sudeste,2024,59751
+MG,Minas Gerais,Sudeste,Sul/Sudeste,2020,163801
+MG,Minas Gerais,Sudeste,Sul/Sudeste,2021,221687
+MG,Minas Gerais,Sudeste,Sul/Sudeste,2022,274970
+MG,Minas Gerais,Sudeste,Sul/Sudeste,2023,268457
+MG,Minas Gerais,Sudeste,Sul/Sudeste,2024,249625
+RJ,Rio de Janeiro,Sudeste,Sul/Sudeste,2020,80572
+RJ,Rio de Janeiro,Sudeste,Sul/Sudeste,2021,122699
+RJ,Rio de Janeiro,Sudeste,Sul/Sudeste,2022,150407
+RJ,Rio de Janeiro,Sudeste,Sul/Sudeste,2023,178778
+RJ,Rio de Janeiro,Sudeste,Sul/Sudeste,2024,200001
+SP,São Paulo,Sudeste,Sul/Sudeste,2020,477987
+SP,São Paulo,Sudeste,Sul/Sudeste,2021,608648
+SP,São Paulo,Sudeste,Sul/Sudeste,2022,785111
+SP,São Paulo,Sudeste,Sul/Sudeste,2023,774442
+SP,São Paulo,Sudeste,Sul/Sudeste,2024,789881
+PR,Paraná,Sul,Sul/Sudeste,2020,111375
+PR,Paraná,Sul,Sul/Sudeste,2021,146128
+PR,Paraná,Sul,Sul/Sudeste,2022,198484
+PR,Paraná,Sul,Sul/Sudeste,2023,210543
+PR,Paraná,Sul,Sul/Sudeste,2024,181710
+RS,Rio Grande do Sul,Sul,Sul/Sudeste,2020,130188
+RS,Rio Grande do Sul,Sul,Sul/Sudeste,2021,164927
+RS,Rio Grande do Sul,Sul,Sul/Sudeste,2022,199127
+RS,Rio Grande do Sul,Sul,Sul/Sudeste,2023,205469
+RS,Rio Grande do Sul,Sul,Sul/Sudeste,2024,190337
+SC,Santa Catarina,Sul,Sul/Sudeste,2020,51440
+SC,Santa Catarina,Sul,Sul/Sudeste,2021,77425
+SC,Santa Catarina,Sul,Sul/Sudeste,2022,93630
+SC,Santa Catarina,Sul,Sul/Sudeste,2023,101272
+SC,Santa Catarina,Sul,Sul/Sudeste,2024,92798
+DF,Distrito Federal,Centro-Oeste,Centro-Oeste,2020,5085
+DF,Distrito Federal,Centro-Oeste,Centro-Oeste,2021,8023
+DF,Distrito Federal,Centro-Oeste,Centro-Oeste,2022,7800
+DF,Distrito Federal,Centro-Oeste,Centro-Oeste,2023,19964
+DF,Distrito Federal,Centro-Oeste,Centro-Oeste,2024,15656
+GO,Goiás,Centro-Oeste,Centro-Oeste,2020,25331
+GO,Goiás,Centro-Oeste,Centro-Oeste,2021,42304
+GO,Goiás,Centro-Oeste,Centro-Oeste,2022,54993
+GO,Goiás,Centro-Oeste,Centro-Oeste,2023,60571
+GO,Goiás,Centro-Oeste,Centro-Oeste,2024,58578
+MS,Mato Grosso do Sul,Centro-Oeste,Centro-Oeste,2020,13279
+MS,Mato Grosso do Sul,Centro-Oeste,Centro-Oeste,2021,24917
+MS,Mato Grosso do Sul,Centro-Oeste,Centro-Oeste,2022,32781
+MS,Mato Grosso do Sul,Centro-Oeste,Centro-Oeste,2023,28520
+MS,Mato Grosso do Sul,Centro-Oeste,Centro-Oeste,2024,31450
+MT,Mato Grosso,Centro-Oeste,Centro-Oeste,2020,8274
+MT,Mato Grosso,Centro-Oeste,Centro-Oeste,2021,12725
+MT,Mato Grosso,Centro-Oeste,Centro-Oeste,2022,26577
+MT,Mato Grosso,Centro-Oeste,Centro-Oeste,2023,24382
+MT,Mato Grosso,Centro-Oeste,Centro-Oeste,2024,21981
