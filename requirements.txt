@@ -1,0 +1,10 @@
+# Projeto AB2 (ICD) — dependências
+# Preparação dos dados (notebooks/01_preparacao.ipynb)
+pandas>=2.0
+openpyxl>=3.1
+# Análises, gráficos e mapas
+matplotlib>=3.7
+geopandas>=0.14
+geobr>=0.2
+# Ambiente de notebooks
+jupyter
