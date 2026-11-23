@@ -4,6 +4,7 @@ pandas>=2.0
 openpyxl>=3.1
 # Análises, gráficos e mapas
 matplotlib>=3.7
+scipy>=1.10
 geopandas>=0.14
 geobr>=0.2
 # Ambiente de notebooks
